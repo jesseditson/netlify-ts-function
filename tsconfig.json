@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "Node",
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "esModuleInterop": true
+    },
+    "include": ["./function.ts"]
+  }
+  

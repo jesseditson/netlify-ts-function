@@ -1,0 +1,17 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "description": "A typescript serverless function",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "tsc --no-emit"
+  },
+  "author": "Jesse Ditson <jesse.ditson@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "netlify-lambda-types": "1.0.0",
+    "typescript": "^3.9.6"
+  }
+}
